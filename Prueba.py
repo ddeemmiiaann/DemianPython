@@ -1,4 +1,4 @@
-print("Dejenme renunciar al MacDonaaaal")
+print("Dejenme renunciar al MacDonaaal")
 
 # Creando variables
 
