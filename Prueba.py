@@ -1,0 +1,1 @@
+print("Dejenme renuncias al MacDonaaaal")
