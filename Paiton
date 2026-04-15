@@ -1,0 +1,75 @@
+# clase 2
+
+#num1=int(input("ingrese 3 numeros: " ))
+#num2=int(input(" "))
+#num3=int(input(" "))
+
+#print(num1, num2, num3)
+
+
+#Ejemplo y explicación del for
+
+#for i in range(3):
+#    print("omaega mou shindeiru")
+    
+# for i in range(5):
+#      print(i)
+
+# numb=int(input("Ingrese un numero: "))
+# for i in range(10):
+#     print(numb,"x",i+1,"=",numb*(i+1))
+     
+
+#range es manipulable, no es necesario solo poner un numero, puedo ponerle un numero x, hasya un numero Y y ese sera el rango
+# numb2=int(input("Ingrese un numero: "))
+# for i in range(1,11):
+#     print(numb2, "x", i+1, "=", numb2*i)
+
+# numb3=int(input("Ingrese un numero: "))
+# suma=0
+# for i in range(numb3):
+#     suma=suma+1
+#     print("El resultado de la suma es ", suma)
+
+
+# Ejercicio notas
+# notaT=0
+# notas=int(input("Cuantas notas le gustaria ingresar? "))
+# for i in range(notas):
+#     nota=float(input("ingrese la nota: "))
+   
+#     notaT=notaT+nota
+    
+# prom=notaT/notas
+# print(prom)
+
+# if prom>=4:
+#     print("A aprovado el ramo")
+# else: print("A reprobado el ramo")
+
+# Recorriendo palabras
+
+# cant=0
+# voc=0
+# cons=0
+# nombre=input("Ingrese su nombre: ")
+# for i in nombre:
+#     print(i)
+#     # cant=cant+1
+#     cant+=1
+#     if i in "aeiouAEIOU":
+#         voc+=1
+#     else:
+#         cons+=1
+    
+# print("la cantidad de letras es: ", cant)
+# print("La cantidad de vocales es: ", voc)
+# print("La cantidad de consonantes es: ", cons)
+
+#for dentro de otro for
+
+#pida la cantidad de alumnos, por cada alumno pida la cantidad de notas.
+#Saque el promedio y muestre si aprueba o no
+#Muestre la cantidad de alumnos aprobados y reprobados 
+
+

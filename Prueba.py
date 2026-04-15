@@ -1,3 +1,5 @@
+# clase 1
+
 print("Dejenme renunciar al MacDonaaaaaaaal")
 
 # Creando variables
